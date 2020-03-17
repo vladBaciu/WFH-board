@@ -1,0 +1,13 @@
+﻿"Symbol";"Value";"Unit";
+"TraceParts.PartNumber";"10-08062010-063654";"";
+"REFERENCE";"rm50-3011-85-1003";"";
+"TraceParts.PartTitle";"RM50 - miniature relays";"";
+"TraceParts.InstanceId";"10-08062010-0636542XYE4AD3WVYQ77RJ3RAY0XK8G";"";
+"TraceParts.PartVersion";"1.0.8";"";
+"TraceParts.PartStatus";"Published";"";
+"TraceParts.PartStatusId";"";"";
+"SUPPLIER";"RELPOL";"";
+"DESIGN";"RM50, miniature relays, AgSnO2, 1 C/O, in cover, IP 64 version, for PCB, with coil 1003";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"TraceParts.PartLanguage";"en";"";
+"TraceParts.ClassPath";"RELPOL:/F_RELPOL/RELPOL.010/RELPOL.010.020/10-08062010-063654";"";

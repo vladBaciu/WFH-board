@@ -1,0 +1,13 @@
+﻿"Symbol";"Value";"Unit";
+"TraceParts.PartNumber";"10-04062010-116433";"";
+"REFERENCE";"rsm822-6112-85-S003";"";
+"TraceParts.PartTitle";"RSM822 - subminiature signal relays";"";
+"TraceParts.InstanceId";"10-04062010-1164334XR5E6ZKX0RD1MK43QBHKJZRJ";"";
+"DESIGN";"RSM822, subminiature signal relays, for PCB, with coil S003";"";
+"TraceParts.PartStatus";"Published";"";
+"TraceParts.PartStatusId";"";"";
+"SUPPLIER";"RELPOL";"";
+"TraceParts.PartVersion";"1.0.8";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"TraceParts.PartLanguage";"en";"";
+"TraceParts.ClassPath";"RELPOL:/F_RELPOL/RELPOL.010/RELPOL.010.010/10-04062010-116433";"";

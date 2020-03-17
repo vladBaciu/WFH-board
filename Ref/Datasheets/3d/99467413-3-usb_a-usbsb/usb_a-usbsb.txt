@@ -1,0 +1,13 @@
+﻿"Symbol";"Value";"Unit";
+"TraceParts.PartNumber";"10-31082010-070994";"";
+"REFERENCE";"A-USBSB";"";
+"TraceParts.PartTitle";"USB, style B, DIP";"";
+"TraceParts.InstanceId";"10-31082010-070994CEK6D7YZ818VCZNYCTFP37TA3";"";
+"DESIGN";"USB, style B, DIP";"";
+"TraceParts.PartStatus";"Published";"";
+"TraceParts.PartStatusId";"";"";
+"SUPPLIER";"ASSMANN WSW components";"";
+"TraceParts.PartVersion";"1.2.0";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"TraceParts.PartLanguage";"en";"";
+"TraceParts.ClassPath";"ASSMANN:/F_ASSMANN/ASSMANN.010/ASSMANN.010.090/10-31082010-070994";"";
